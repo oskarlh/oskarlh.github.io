@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d1dd258.chunk.css",
-    "main.js": "/static/js/main.467a0584.chunk.js",
-    "main.js.map": "/static/js/main.467a0584.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.4db14202.chunk.js": "/static/js/2.4db14202.chunk.js",
-    "static/js/2.4db14202.chunk.js.map": "/static/js/2.4db14202.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ea1e4d2752f649bec0b4be4237553840.js": "/precache-manifest.ea1e4d2752f649bec0b4be4237553840.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7d1dd258.chunk.css.map": "/static/css/main.7d1dd258.chunk.css.map",
-    "static/media/favourite.svg": "/static/media/favourite.b31d5567.svg",
-    "static/media/search.svg": "/static/media/search.74737a6f.svg",
-    "static/media/watchlist.svg": "/static/media/watchlist.d713f9a2.svg"
+    "main.css": "/movies/static/css/main.7d1dd258.chunk.css",
+    "main.js": "/movies/static/js/main.06a6823b.chunk.js",
+    "main.js.map": "/movies/static/js/main.06a6823b.chunk.js.map",
+    "runtime~main.js": "/movies/static/js/runtime~main.712e9881.js",
+    "runtime~main.js.map": "/movies/static/js/runtime~main.712e9881.js.map",
+    "static/js/2.4db14202.chunk.js": "/movies/static/js/2.4db14202.chunk.js",
+    "static/js/2.4db14202.chunk.js.map": "/movies/static/js/2.4db14202.chunk.js.map",
+    "index.html": "/movies/index.html",
+    "precache-manifest.4de16aaaf68e742b3387105803d3e365.js": "/movies/precache-manifest.4de16aaaf68e742b3387105803d3e365.js",
+    "service-worker.js": "/movies/service-worker.js",
+    "static/css/main.7d1dd258.chunk.css.map": "/movies/static/css/main.7d1dd258.chunk.css.map",
+    "static/media/favourite.svg": "/movies/static/media/favourite.b31d5567.svg",
+    "static/media/search.svg": "/movies/static/media/search.74737a6f.svg",
+    "static/media/watchlist.svg": "/movies/static/media/watchlist.d713f9a2.svg"
   }
 }
