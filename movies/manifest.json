@@ -1,0 +1,20 @@
+{
+  "short_name": "Movies",
+  "name": "Movies",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#701",
+  "background_color": "#111"
+}
