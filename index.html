@@ -6,27 +6,51 @@
 		<link rel="icon" sizes="any" type="image/svg" href="/favicon.svg" />
 		<link rel="canonical" href="https://oskar.pm/" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<meta name="description" content="Oskar Larsson Högfeldt's personal website" />
+		<meta
+			name="description"
+			content="Oskar Larsson Högfeldt's personal website"
+		/>
 		<style>
+			@font-face {
+				font-family: "QT Friz Quad";
+				src: url("assets/QTFrizQuad.woff2") format("woff2"), local("QT Friz Quad"), local("Friz Quad"), local("Friz Quadrata");
+				font-weight: normal;
+				font-display: swap;
+			}
+			@font-face {
+				font-family: "QT Friz Quad";
+				src: url("assets/QTFrizQuad-Bold.woff2") format("woff2"), local("QT Friz Quad"), local("Friz Quad"), local("Friz Quadrata");
+				font-weight: bold;
+				font-display: swap;
+			}
+
 			@media (prefers-color-scheme: dark) {
 				html {
 					background: black;
-					color: #FFCFBB;
+					color: #5f5;
 				}
 			}
+			html {
+				padding-inline: 1em;
+			}
 			body {
-				font-family: "Arial", "Helvetica", sans-serif;
+				font-family: "QT Friz Quad", "Arial", "Helvetica", sans-serif;
 				font-size: 1.5rem;
+			}
+			:link, :visited {
+				color: inherit;
 			}
 		</style>
 	</head>
 	<body>
 		<article>
-			<h1 hidden>Oskar Larsson Högfeldt</h1>
-			<p>Hi 🙂</p>
-			<p>The website is down for now, I'll put it back up when I find the time.</p>
+			<h1>Oskar Larsson Högfeldt</h1>
+			<p>Hi and welcome to my website.</p>
+			<p>
+				Check out my TypeScript library <a href="https://www.npmjs.com/package/cmath-js">cmath-js</a>.
+			</p>
+				There's nothing else to se here, yet. Perhaps one day I will take the time to put up more of my work here.
 			<p><em>— Oskar</em></p>
-			<p>P.S. Check out the TypeScript library <a href="https://www.npmjs.com/package/cmath-js">cmath-js</a>.</p>
 		</article>
 	</body>
 </html>
